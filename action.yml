@@ -1,6 +1,6 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Notify Slack TS'
+description: 'Notify Slack'
+author: 'Kohei Matsubara <https://github.com/matsuby>'
 inputs:
   milliseconds: # change this
     required: true
